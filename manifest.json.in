@@ -1,0 +1,15 @@
+{
+    "name": "smartxpenses.mouli",
+    "description": "# expenses reporting application",
+    "architecture": "@CLICK_ARCH@",
+    "title": "expenses reporting",
+    "hooks": {
+        "smartxpenses": {
+            "apparmor": "smartxpenses.apparmor",
+            "desktop":  "smartxpenses.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "mouli <mouligangadharpedireddy@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

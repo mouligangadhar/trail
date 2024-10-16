@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the smartxpenses.mouli package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: smartxpenses.mouli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-16 09:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:42
+msgid "Expenses Reporting App"
+msgstr ""
+
+#: ../qml/Main.qml:54
+msgid "Item Name"
+msgstr ""
+
+#: ../qml/Main.qml:62
+msgid "Item Amount (in ₹)"
+msgstr ""
+
+#: ../qml/Main.qml:83
+msgid "Add"
+msgstr ""
+
+#: ../qml/Main.qml:90
+msgid "Please fill in both the Item Name and Item Amount."
+msgstr ""
+
+#: ../qml/Main.qml:109
+msgid "Save"
+msgstr ""
+
+#: ../qml/Main.qml:130
+msgid "Total: ₹ 0.00"
+msgstr ""
+
+#: ../qml/Main.qml:137 ../qml/Main.qml:195
+msgid "Total: ₹ "
+msgstr ""
+
+#: ../qml/Main.qml:147
+msgid "View Table"
+msgstr ""
+
+#: smartxpenses.desktop.in.h:1
+msgid "expenses reporting"
+msgstr ""
