@@ -103,6 +103,7 @@ Page {
         Row {
             spacing: units.gu(2)
             anchors.horizontalCenter: parent.horizontalCenter
+            anchors.bottom:itemTablePage.bottom
 
             // Custom styled Back button
             Button {
